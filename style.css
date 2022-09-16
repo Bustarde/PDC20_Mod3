@@ -1,0 +1,26 @@
+h1 {
+    background-color: yellow;
+}
+ 
+#textcolor {
+    color: green;
+}
+.textclass {
+    color: palevioletred;
+}
+
+div p {
+    background-color: aqua;
+}
+
+div.seconddiv p {
+    background-color: aqua;
+}
+
+section:hover {
+    background-color: yellow;
+}
+
+hgroup:hover {
+    background-color: yellow;
+}
